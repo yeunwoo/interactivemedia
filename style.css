@@ -1,0 +1,179 @@
+.flag {
+	display: grid;
+
+}
+
+/*Start Sweden Flag*/
+.flag-sweden {
+	width: 320px;
+	height: 200px;
+	border: 1px solid black;
+	grid-template-columns: 95px 44px 181px;
+	grid-template-rows: 78px 44px 78px;
+	background-color: #1366A0;
+}
+
+/*.flag-sweden div {
+	border: 1px solid black;
+}*/
+
+/*.grid-item-black {
+	background-color: black;
+	grid-column-start: 1;
+	grid-column-end: span 5;
+}*/
+
+.grid-item-yelloww {
+	background-color: #FBD009;
+	grid-column-start: 2;
+}
+
+.grid-item-yellow {
+	background-color: #FBD009;
+	grid-column-start: 1;
+	grid-column-end: span 3;
+}
+
+/*Start Finland Flag*/
+.flag-finland {
+	width: 350px;
+	height: 250px;
+	border: 1px solid black;
+	grid-template-columns: 95px 65px 190px;
+	grid-template-rows: 95px 60px 95px;
+	background-color: #ffffff;
+}
+
+.grid-item-finland-bluee {
+	background-color: #1366A0;
+	grid-column-start: 2;
+}
+
+.grid-item-finland-blue {
+	background-color: #1366A0;
+	grid-column-start: 1;
+	grid-column-end: span 3;
+}
+
+/*Start Denmark Flag*/
+.flag-denmark {
+	width: 300px;
+	height: 240px;
+	border: 1px solid black;
+	grid-template-columns: 100px 40px 160px;
+	grid-template-rows: 100px 40px 100px;
+	background-color: #FF0000;
+}
+
+.grid-item-denmark-white {
+	background-color: #ffffff;
+	grid-column-start: 1;
+	grid-column-end: span 3;
+}
+ 
+.grid-item-denmark-whitee {
+	background-color: #ffffff;
+	grid-column-start: 2;
+}
+
+/*Start Iceland Flag*/
+.flag-iceland {
+	width: 340px;
+	height: 240px;
+	border: 1px solid black;
+	grid-template-columns: 100px 10px 20px 10px 200px;
+	grid-template-rows: 100px 5px 30px 5px 100px;
+	background-color: #1366A0;
+}
+
+.grid-item-iceland-white {
+	background-color: #ffffff;
+	grid-column-start: 2;
+	grid-column-end: span 3;
+}
+
+.grid-item-iceland-redd {
+	background-color: #FF0000;
+	grid-column-start: 3;
+	grid-column-end: 5;
+}
+
+.grid-item-iceland-red {
+	background-color: #FF0000;
+	grid-column-start: 2;
+	grid-column-end: 5;
+}
+
+.grid-item-iceland-whitee {
+	background-color: #ffffff;
+	grid-column-start: 2;
+}
+
+/*.grid-item-iceland-whitee2 {
+	background-color: #ffffff;
+	grid-column-start: 3;
+	grid-column-end: span 5;
+}*/
+
+/* Start Yeunwoo Flag */
+
+.flag-yeunwoo {
+	width: 340px;
+	height: 260px;
+	border: 1px solid black;
+	grid-template-columns: 150px 20px 20px 150px;
+	grid-template-rows: 50px 10px 40px 10px 50px 100px;
+	background-color: #AFC966;
+}
+
+.grid-item-yeunwoo-red {
+	background-color: #AF4D66;
+	grid-column-start: 1;
+	grid-column-end: 3;
+}
+
+.grid-item-yeunwoo-redd {
+	background-color: #AF4D66;
+	grid-column-start: 4;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
